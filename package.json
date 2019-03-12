@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "name": "docs",
+  "description": "docs of MA",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.44"
+  }
+}
