@@ -1,5 +1,6 @@
 module.exports = {
-  dest: '../../vuepress',
+  base: '/docs/',
+  dest: '../../docs',
   locales: {
     '/': {
       lang: 'zh-CN',
