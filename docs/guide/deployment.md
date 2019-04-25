@@ -134,7 +134,7 @@ spring:
 
 ![](http://ww1.sinaimg.cn/large/005yqb1Zly1g2e2y4qkblj32801e04ep.jpg)
 
-**切记等待右下角进度条加载完毕后再进行下一步操作。**加载完毕后再次打开右侧菜单栏，找到 war 选项并单击运行 war:war
+**切记等待右下角进度条加载完毕，再进行下一步操作。** 加载完毕后再次打开右侧菜单栏，找到 war 选项并单击运行 war:war
 命令，等待控制台提示 `BUILD SUCCESS` 就可以在 target 根目录下面找到生成的 war 文件了。
 
 ![](http://ww1.sinaimg.cn/large/005yqb1Zgy1g2ejpf0r6lj328018w179.jpg)
